@@ -1,0 +1,16 @@
+{
+  "name": "igaforge-triuno-store",
+  "version": "1.0.0",
+  "description": "IgaForge AI - Global Education Platform & Legal Shield",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  }
+}
